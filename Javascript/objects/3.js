@@ -1,0 +1,12 @@
+let txt='javascript is easy to learn';
+console.log(txt[3]);
+console.log(txt.length);
+console.log(txt.toLowerCase);
+console.log(txt.toUpperCase);
+console.log(txt.charAt(6));
+console.log(txt.slice(0,10));
+console.log(txt.substring(0,10));
+console.log(txt.substr(7,10));
+console.log(txt.replace('javascript','react'));
+console.log(txt.indexOf('a'));
+console.log(txt.lastIndexOf('a'));
